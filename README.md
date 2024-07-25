@@ -7,3 +7,4 @@ Acerca dos códigos, segue uma descrição das principais funcionalidades:
 correlação: algoritmo para avaliar a correlação de Pearson entre fontes eólica e solar
 geracao_eolica: jupyter notebook desenvolvido para construir a curva e calcular a geração eólica para cada turbina
 pvlib_v1.2: código que calcula a geração solar, integrando com a eólica e obtendo os indicadores financeiros
+BESS_Otmz: algoritmo de otimização numperica para dimensionamento do Sistema de Armazenamento a Baterias (BESS)
